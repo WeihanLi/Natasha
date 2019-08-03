@@ -70,7 +70,7 @@ namespace Core30
 }
 }";
 
-            SyntaxTree tree = CSharpSyntaxTree.ParseText(source);
+            SyntaxTree? tree = CSharpSyntaxTree.ParseText(source);
             CompilationUnitSyntax root = tree.GetCompilationUnitRoot();
 
 

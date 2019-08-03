@@ -17,6 +17,7 @@
     <PackageIconUrl>https://www.dotnetcore.xyz/images/project/asp-natasha-avator.png</PackageIconUrl>
     <Authors>NMSAzulX</Authors>
     <LangVersion>latest</LangVersion>
+    <NullableReferenceTypes>true</NullableReferenceTypes>
   </PropertyGroup>
 
 
